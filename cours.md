@@ -72,3 +72,11 @@ Pourquoi créer des tableaux de bord ? En voici quelques raisons :
 * Pour créer une vue personnalisée d’un tableau de bord plus large et afficher les métriques qui les intéressent.
   
 Lorsque vous ouvrez un espace de travail, les tableaux de bord associés sont répertoriés sous l’onglet Tableaux de bord. Pour ouvrir un tableau de bord, sélectionnez-le. Lorsque vous ouvrez une application, vous voyez un tableau de bord. Si vous êtes propriétaire du tableau de bord, vous avez aussi accès en modification aux jeux de données et rapports sous-jacents. Si le tableau de bord a été partagé avec vous, vous pouvez interagir avec le tableau de bord et les rapports sous-jacents, mais vous ne pouvez pas enregistrer de modifications.
+
+## Applications modèles
+
+Les nouvelles applications modèles Power BI permettent aux partenaires Power BI de créer des applications Power BI avec peu ou pas de codage et de les déployer ensuite vers n’importe quel client Power BI. En tant que partenaire Power BI, vous créez du contenu prêt à l’emploi pour vos clients et vous le publiez vous-même.
+
+Vous pouvez concevoir des applications modèles qui permettent à vos clients de se connecter à partir de leurs propres comptes. En tant qu’experts dans leur domaine, les clients peuvent déverrouiller les données pour les rendre facilement consommables par leurs utilisateurs professionnels.
+
+Les applications de modèle sont envoyées à l’espace partenaires pour devenir publiquement disponibles dans le [Marketplace Power BI Apps](https://app.powerbi.com/getdata/services) et sur [Microsoft AppSource](https://appsource.microsoft.com/fr-FR?product=power-bi). Si vous souhaitez créer vous-même des applications modèles pour les distribuer en dehors de votre organisation, consultez [Créer une application modèle dans Power BI](https://docs.microsoft.com/fr-fr/power-bi/connect-data/service-template-apps-create).
