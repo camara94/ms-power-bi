@@ -57,3 +57,5 @@ Lorsque vous ouvrez une application, vous voyez un tableau de bord. Pour accéde
 ![demo 3](images/dashboard-tile.png)
 
 Par défaut, le rapport s’ouvre en mode Lecture. Sélectionnez **Modifier le rapport** pour l’ouvrir en Mode Édition (si vous avez les autorisations requises).
+
+![rapport 1](images/editing-view.png)
