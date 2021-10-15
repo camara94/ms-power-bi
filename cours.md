@@ -113,3 +113,4 @@ Pour pouvoir installer une application modèle qui n’est pas listée sur AppSo
 
 Une fois l’installation terminée, une notification vous indique que votre nouvelle application est prête.
 
+![go to app](images/go-to-app.png)
