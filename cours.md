@@ -17,3 +17,5 @@ Microsoft Power BI est un ensemble de services logiciels, d’applications et de
 
 ## Composants de Power BI
 Power BI se compose d’une application de bureau Microsoft Windows appelée Power BI Desktop, d’un service SaaS en ligne (Software as a Service ou logiciel en tant que service) appelé service Power BI et d’applications mobiles Power BI disponibles sur les téléphones et tablettes.
+
+![demo 1](images/pbi-intro-02.png)
