@@ -83,6 +83,13 @@ Les applications de modèle sont envoyées à l’espace partenaires pour deveni
 
 ## Installer une application modèle
 1. Dans le volet de navigation du service Power BI, sélectionnez **Applications** > **Obtenir des applications**.
+   
 ![install app modele](images/get-apps-button.png)
+
 2. Dans la Place de marché des applications Power BI qui s’affiche, sélectionnez **Applications modèles**s. Toutes les applications modèles disponibles dans AppSource sont affichées. Recherchez l’application modèle que vous recherchez, ou obtenez une sélection filtrée à l’aide de la zone de recherche.
+    
 ![app](images/search-appsource.png)
+
+3. Lorsque vous trouvez l’application modèle que vous recherchez, cliquez dessus. L’offre de l’application modèle s’affiche. Cliquez sur OBTENIR MAINTENANT.
+
+![app](images/template-app-offer.png)
