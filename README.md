@@ -1,4 +1,3 @@
-# ms-power-bi
 # Power BI
 
 ## Introduction
