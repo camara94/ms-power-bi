@@ -82,5 +82,7 @@ Vous pouvez concevoir des applications modèles qui permettent à vos clients de
 Les applications de modèle sont envoyées à l’espace partenaires pour devenir publiquement disponibles dans le [Marketplace Power BI Apps](https://app.powerbi.com/getdata/services) et sur [Microsoft AppSource](https://appsource.microsoft.com/fr-FR?product=power-bi). Si vous souhaitez créer vous-même des applications modèles pour les distribuer en dehors de votre organisation, consultez [Créer une application modèle dans Power BI](https://docs.microsoft.com/fr-fr/power-bi/connect-data/service-template-apps-create).
 
 ## Installer une application modèle
-Dans le volet de navigation du service Power BI, sélectionnez **Applications** > **Obtenir des applications**.
+1. Dans le volet de navigation du service Power BI, sélectionnez **Applications** > **Obtenir des applications**.
 ![install app modele](images/get-apps-button.png)
+2. Dans la Place de marché des applications Power BI qui s’affiche, sélectionnez **Applications modèles**s. Toutes les applications modèles disponibles dans AppSource sont affichées. Recherchez l’application modèle que vous recherchez, ou obtenez une sélection filtrée à l’aide de la zone de recherche.
+![app](images/search-appsource.png)
