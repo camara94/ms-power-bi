@@ -97,3 +97,19 @@ Les applications de modèle sont envoyées à l’espace partenaires pour deveni
 4. Dans la boîte de dialogue qui s’affiche, sélectionnez Installer.
 
 ![app](images/install-app.png)
+
+L’application est installée, ainsi qu’un espace de travail portant le même nom que tous les artefacts nécessaires pour une [personnalisation](https://docs.microsoft.com/fr-fr/power-bi/connect-data/service-template-apps-install-distribute#customize-and-share-the-app) plus poussée.
+
+---
+**NOTE**
+
+Si vous utilisez un lien d’installation pour une application qui n’est pas listée sur AppSource, une boîte de dialogue de validation vous invite à confirmer votre choix.
+
+---
+---
+Pour pouvoir installer une application modèle qui n’est pas listée sur AppSource, vous devez demander les autorisations appropriées à votre administrateur. Consultez [Paramètres d’application modèle](https://docs.microsoft.com/fr-fr/power-bi/admin/service-admin-portal#template-apps-settings) dans le portail d’administration Power BI pour plus d’informations.
+
+---
+
+Une fois l’installation terminée, une notification vous indique que votre nouvelle application est prête.
+
