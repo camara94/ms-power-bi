@@ -93,3 +93,7 @@ Les applications de modèle sont envoyées à l’espace partenaires pour deveni
 3. Lorsque vous trouvez l’application modèle que vous recherchez, cliquez dessus. L’offre de l’application modèle s’affiche. Cliquez sur OBTENIR MAINTENANT.
 
 ![app](images/template-app-offer.png)
+
+4. Dans la boîte de dialogue qui s’affiche, sélectionnez Installer.
+
+![app](images/install-app.png)
