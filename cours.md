@@ -59,3 +59,16 @@ Lorsque vous ouvrez une application, vous voyez un tableau de bord. Pour accéde
 Par défaut, le rapport s’ouvre en mode Lecture. Sélectionnez **Modifier le rapport** pour l’ouvrir en Mode Édition (si vous avez les autorisations requises).
 
 ![rapport 1](images/editing-view.png)
+
+## Tableaux de bord
+
+Un tableau de bord est un élément que vous créez dans **Power BI** ou qu’un collègue crée dans le **service Power BI** et partage avec vous. Il s’agit d’un canevas unique qui contient zéro vignette et widget ou plus. Chaque vignette épinglée à partir d’un rapport ou de la zone Questions et réponses affiche une visualisation unique qui a été créée à partir d’un jeu de données et épinglée au tableau de bord. Des pages de rapport entières peuvent aussi être épinglées à un tableau de bord sous forme de vignette unique. Il existe plusieurs façons d’ajouter des vignettes à votre tableau de bord, bien trop nombreuses pour être traitées dans cette rubrique de présentation.
+
+Pourquoi créer des tableaux de bord ? En voici quelques raisons :
+* Pour voir en un coup d’œil toutes les informations nécessaires pour prendre des décisions.
+* Pour superviser les informations les plus importantes concernant votre activité.
+* Pour vous assurer que tous vos collègues accèdent à la même page, et qu’ils consultent et utilisent les mêmes informations que vous.
+* Pour surveiller la santé d’une entreprise, d’un produit, d’une unité organisationnelle, d’une campagne marketing, etc.
+* Pour créer une vue personnalisée d’un tableau de bord plus large et afficher les métriques qui les intéressent.
+  
+Lorsque vous ouvrez un espace de travail, les tableaux de bord associés sont répertoriés sous l’onglet Tableaux de bord. Pour ouvrir un tableau de bord, sélectionnez-le. Lorsque vous ouvrez une application, vous voyez un tableau de bord. Si vous êtes propriétaire du tableau de bord, vous avez aussi accès en modification aux jeux de données et rapports sous-jacents. Si le tableau de bord a été partagé avec vous, vous pouvez interagir avec le tableau de bord et les rapports sous-jacents, mais vous ne pouvez pas enregistrer de modifications.
