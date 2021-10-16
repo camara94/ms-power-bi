@@ -257,3 +257,13 @@ Un type simple de filtrage que vous pouvez utiliser directement sur la page de r
 ![bi](images/slicer-filters.gif)
 
 Si vous souhaitez sélectionner plusieurs champs, maintenez la touche Ctrl enfoncée et cliquez sur les champs supplémentaires.
+
+## Explorer le volet Filtres
+
+Une autre méthode de filtrage des données consiste à ouvrir et à modifier les filtres dans le volet Filtres. Le volet Filtres contient des filtres ajoutés au rapport par le concepteur de rapports. En tant que consommateur, vous pouvez interagir avec les filtres et enregistrer vos modifications, mais vous ne pouvez pas ajouter de nouveaux filtres.
+
+Les quatre types de filtres sont les suivants :
+* **Rapport** : s’applique à toutes les pages du rapport.
+* **Page** : s’applique à tous les objets visuels sur la page de rapport actuelle.
+* **Objet visuel** : s’applique à un seul objet visuel sur une page de rapport. Vous ne voyez les filtres de niveau élément visuel que si vous avez sélectionné un élément visuel sur le canevas de rapport.
+* **Extraction** : vous permet d’explorer successivement des affichages plus détaillés dand un objet visuel unique.
