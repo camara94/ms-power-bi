@@ -157,3 +157,8 @@ Les graphiques à barres sont la norme pour la recherche d’une valeur spécifi
 ### Cartes : Plusieurs lignes
 
 ![carte-multi-ligne](images/multi-row-card.png)
+
+### Cartes : Numéro unique
+
+![carte-num-unique](images/single-number-card.png)
+
