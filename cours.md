@@ -250,3 +250,10 @@ Lorsque vous filtrez un objet visuel, un graphique à barres par exemple, vous c
 
 ---
 
+## Segments
+
+Un type simple de filtrage que vous pouvez utiliser directement sur la page de rapport est appelé un segment. Les segments fournissent des informations sur les méthodes possibles de filtrage des résultats des objets visuels d’une page de rapport. Il existe plusieurs types de segments : numérique, catégorie et date. Les segments simplifient le filtrage simultané de tous les objets visuels de la page.
+
+![bi](images/slicer-filters.gif)
+
+Si vous souhaitez sélectionner plusieurs champs, maintenez la touche Ctrl enfoncée et cliquez sur les champs supplémentaires.
