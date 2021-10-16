@@ -359,3 +359,19 @@ Vous pouvez parfois mathématiquement combiner des valeurs dans vos données. L�
 Lorsque le service Power BI et Power BI Desktop créent des visualisations, ils peuvent agréger vos données. L’agrégation peut parfois vous convenir, sauf si vous souhaitez regrouper les valeurs d’une autre manière. Par exemple, une somme ou une moyenne. Il existe différentes façons de gérer et de changer l’agrégation que Power BI utilise dans une visualisation.
 
 Tout d’abord, examinons les types de données, car le type de données détermine le mode d’agrégation et la possibilité pour Power BI de faire appel à cette fonctionnalité.
+
+### Types des données
+
+La plupart des jeux de données ont plusieurs types de données. Au niveau le plus basique, les données sont numériques ou ne le sont pas. Power BI peut agréger des données numériques à l’aide d’une fonction somme, moyenne, nombre, minimum, écart et bien plus encore. Le service peut même agréger des données textuelles, souvent appelées données par catégorie. Si vous tentez d’agréger un champ de catégorie en le plaçant dans un compartiment uniquement numérique comme Valeurs ou Info-bulles, Power BI compte les occurrences de chaque catégorie ou les occurrences distinctes de chaque catégorie. Des types de données spéciaux, tels que des dates, ont leurs propres options d’agrégation : plus ancien, plus récent, premier et dernier.
+
+Prenons l’exemple ci-dessous :
+
+* Les colonnes **Units Sold (Unités vendues)** et **Manufacturing Price (Prix de fabrication)** contiennent des données numériques.
+  
+* **Segment, Country (Pays) , Product (Produit) , Month (Mois) et Month Name (Nom du mois)** contiennent des données catégorielles.
+
+![sample-data-set](images/sample-data-set.png)
+
+Lorsque vous créez une visualisation dans Power BI, le service agrège les champs numériques (la valeur par défaut étant somme) sur un champ catégoriel. Par exemple, « Unités vendues par produit », « Unités vendues par mois » et « Prix de fabrication par Segment ». Power BI fait référence aux champs numériques comme à des **mesures**. Il est facile d’identifier les mesures dans l’éditeur de rapport Power BI : la liste **Champs** indique les mesures avec le symbole **∑** situé en regard. Pour plus d’informations, consultez la [visite guidée de l’éditeur de rapport](https://docs.microsoft.com/fr-fr/power-bi/create-reports/service-the-report-editor-take-a-tour).
+
+![power-bi-fields](images/power-bi-fields.png)
