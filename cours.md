@@ -215,3 +215,9 @@ Le visuel de Q&R vous laisse poser des questions sur vos données à l’aide du
 Fonctionnent correctement avec des comparaisons quantitatives entre des éléments représentant de nombreuses catégories.
 
 ![visuel table](images/visual-table.png)
+
+## Treemaps
+
+Graphiques de rectangles de couleur, dont la taille représente une valeur. Ils peuvent être hiérarchiques, avec les rectangles imbriqués dans les rectangles principaux.
+
+![treemap](images/treemap.png)
