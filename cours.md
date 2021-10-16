@@ -273,3 +273,21 @@ Les quatre types de filtres sont les suivants :
 Parfois, vos données peuvent contenir des données superflues ou au format incorrect. Power BI Desktop comprend l’outil Éditeur Power Query, qui peut vous aider à mettre en forme et à transformer des données afin qu’elles soient prêtes pour vos modèles et visualisations.
 
 ![power-query-editor](images/power-query-editor.png)
+
+## Lancement de l’Éditeur Power Query
+
+Pour commencer, sélectionnez **Modifier** dans la fenêtre **Navigateur** pour lancer l’Éditeur Power Query. Vous pouvez aussi lancer l’Éditeur Power Query directement à partir de Power BI Desktop en utilisant le **bouton Transformer les données** dans le ruban Accueil.
+
+![transform-data-button](images/transform-data-button.png)
+
+Après avoir chargé vos données dans l’Éditeur Power Query, vous verrez l’écran suivant :
+
+![power-query-editor-components](images/power-query-editor-components.png)
+
+1. Dans le ruban, les boutons actifs vous permettent d’interagir avec les données de la requête.
+
+2. Dans le volet gauche, les requêtes (une pour chaque tableau ou entité) sont listées et disponibles pour être sélectionnées, affichées et mises en forme.
+
+3. Dans le volet central, les données de la requête sélectionnée sont affichées et disponibles pour la mise en forme.
+
+4. sLa fenêtre Paramètres d’une requête liste les propriétés de la requête et les étapes appliquées.
