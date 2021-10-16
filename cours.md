@@ -221,3 +221,11 @@ Fonctionnent correctement avec des comparaisons quantitatives entre des élémen
 Graphiques de rectangles de couleur, dont la taille représente une valeur. Ils peuvent être hiérarchiques, avec les rectangles imbriqués dans les rectangles principaux.
 
 ![treemap](images/treemap.png)
+
+### Graphiques en cascade
+
+Les graphiques en cascade affichent un résultat cumulé lorsque des valeurs sont ajoutées ou soustraites.
+
+![waterfall-chart](images/waterfall-chart.png)
+
+Il s’agit de certains des visuels Power BI prêts à l’emploi disponibles dans le volet de visualisation de Power BI Desktop et du service Power BI. Toutefois, vous avez parfois besoin d’un visuel plus personnalisé et vous pouvez les trouver dans AppSource pour Power BI.
