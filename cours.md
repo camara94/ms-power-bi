@@ -209,3 +209,9 @@ Ils montrent la relation des parties par rapport à un tout.
 Le visuel de Q&R vous laisse poser des questions sur vos données à l’aide du langage naturel.
 
 ![qetr](images/visual.png)
+
+### Tables
+
+Fonctionnent correctement avec des comparaisons quantitatives entre des éléments représentant de nombreuses catégories.
+
+![visuel table](images/visual-table.png)
