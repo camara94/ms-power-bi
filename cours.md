@@ -139,3 +139,9 @@ Dans Power BI Desktop, vous commencerez à créer des rapports dans la vue **Rap
 ## Types de visualisations disponibles dans Power BI
 
 Voici quelques-uns des nombreux types de visualisations qui peuvent être ajoutés aux rapports Power BI, spécifiés dans Q&R et épinglés aux tableaux de bord.
+
+### Graphiques en aires : De base (superposées) et empilées
+
+Le graphique en aires de base est basé sur le graphique en courbes, avec la zone comprise entre l’axe et la ligne remplie.
+
+![aire](images/area-chart-visual.png)
