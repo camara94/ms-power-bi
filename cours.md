@@ -135,3 +135,7 @@ Dans Power BI Desktop, vous commencerez à créer des rapports dans la vue **Rap
 4. **Volet Visualisations** - Vous permet de modifier les visualisations, de personnaliser les couleurs ou les axes, d’appliquer des filtres, de faire glisser des champs, et ainsi de suite.
    
 5. **Volet Champs** - Vous permet de faire glisser des éléments de requête et des filtres vers la vue Rapport, ou vers la zone Filtres du volet Visualisations.
+
+## Types de visualisations disponibles dans Power BI
+
+Voici quelques-uns des nombreux types de visualisations qui peuvent être ajoutés aux rapports Power BI, spécifiés dans Q&R et épinglés aux tableaux de bord.
