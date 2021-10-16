@@ -402,3 +402,27 @@ Supposons que vous avez un graphique qui fait la somme des unités vendues pour 
 3. Votre visualisation est à présent agrégée par moyenne.
    
     ![average-units-sold-chart](images/average-units-sold-chart.png)
+
+    ## Comment regrouper vos données
+
+Voici certaines des options qui peuvent être disponibles pour l’agrégation d’un champ :
+
+* **Ne pas résumer**. Si vous choisissez cette option, Power BI traite chaque valeur de ce champ séparément et ne les totalise pas. Utilisez cette option en présence d’une colonne d’ID numériques que le service ne doit pas additionner.
+  
+* **Somme**. Additionne toutes les valeurs contenues dans le champ.
+
+* **Moyenne**. prend une moyenne arithmétique des valeurs.
+
+* **Minimum**. affiche la valeur la plus petite.
+
+* **Maximum**. affiche la valeur la plus grande.
+
+* **Nombre (non vide)**. Compte le nombre de valeurs dans le champ qui ne sont pas vides.
+
+* **Nombre (distinct)**. Compte le nombre de valeurs différentes dans le champ.
+
+* **Écart type**.
+  
+* **Écart**.
+
+* **Médiane**. Affiche la valeur médiane (centrale). Cette valeur a le même nombre d’éléments au-dessus et en dessous. S’il existe deux médianes, Power BI calcule leur moyenne.
