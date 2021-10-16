@@ -203,3 +203,9 @@ Une table prend en charge deux dimensions, mais une matrice facilite l’afficha
 Ils montrent la relation des parties par rapport à un tout.
 
 ![pie chart](images/pie-chart.png)
+
+### Visuel de Questions et réponses
+
+Le visuel de Q&R vous laisse poser des questions sur vos données à l’aide du langage naturel.
+
+![qetr](images/visual.png)
