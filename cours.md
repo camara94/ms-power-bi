@@ -328,3 +328,12 @@ Une disposition de tableau agréable à l’œil peut ne pas être optimale pour
 
 ![excel-spreadsheet-headers](images/excel-spreadsheet-headers.png)
 
+## Comment nettoyer des données
+
+Heureusement, l’Éditeur Power Query contient des outils pour vous aider à transformer rapidement des tableaux à plusieurs colonnes en jeux de données utilisables.
+
+## Transposer des données
+
+La fonctionnalité Transposer de l’Éditeur Power Query vous permet de permuter des lignes en colonnes pour améliorer la mise en forme des données.
+
+![transpose-data](images/transpose-data.png)
