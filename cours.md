@@ -349,3 +349,13 @@ Avec Power BI, vous pouvez faire des essais avec les transformations et détermi
 Une fois que vous avez nettoyé vos données dans un format utilisable, vous pouvez commencer à créer des visuels puissants dans Power BI.
 
 Pour plus d’informations, consultez Tutoriel : [Combiner des données de ventes à partir d’Excel et d’un flux OData](https://docs.microsoft.com/fr-fr/power-bi/connect-data/desktop-tutorial-analyzing-sales-data-from-excel-and-an-odata-feed).
+
+## Utiliser des agrégats dans le service Power BI
+
+### Qu’est qu’un agrégat ?
+
+Vous pouvez parfois mathématiquement combiner des valeurs dans vos données. L’opération mathématique peut être une somme, une moyenne, un maximum, un nombre, etc. Lorsque vous combinez des valeurs dans vos données, cette opération est appelée agrégation. Le résultat de cette opération mathématique est une agrégation.
+
+Lorsque le service Power BI et Power BI Desktop créent des visualisations, ils peuvent agréger vos données. L’agrégation peut parfois vous convenir, sauf si vous souhaitez regrouper les valeurs d’une autre manière. Par exemple, une somme ou une moyenne. Il existe différentes façons de gérer et de changer l’agrégation que Power BI utilise dans une visualisation.
+
+Tout d’abord, examinons les types de données, car le type de données détermine le mode d’agrégation et la possibilité pour Power BI de faire appel à cette fonctionnalité.
