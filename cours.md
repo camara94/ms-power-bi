@@ -314,3 +314,17 @@ Si vous faites une erreur, vous pouvez annuler n’importe quelle étape à part
 Une fois que vous avez sélectionné Fermer et appliquer, l’Éditeur Power Query applique les modifications apportées à la requête et les applique à Power BI Desktop.
 
 Pour plus d’informations, consultez Démarrage rapide : [Utilisation de Power Query dans Power BI Desktop](https://docs.microsoft.com/fr-fr/power-query/power-query-ui).
+
+
+## Nettoyer des données
+
+Même si Power BI peut importer vos données à partir de presque n’importe quelle source, ses outils de visualisation et de modélisation fonctionnent mieux avec les données en colonnes. Parfois, vos données ne seront pas mises en forme dans des colonnes simples, ce qui est souvent le cas avec les feuilles de calcul Excel.
+
+Dans cette unité, vous allez nettoyer les données en colonnes à l’aide de l’Éditeur Power Query.
+
+![clean-columnar-data](images/clean-columnar-data.png)
+
+Une disposition de tableau agréable à l’œil peut ne pas être optimale pour les requêtes automatisées. Par exemple, la feuille de calcul suivante contient des en-têtes qui s’étendent sur plusieurs colonnes.
+
+![excel-spreadsheet-headers](images/excel-spreadsheet-headers.png)
+
