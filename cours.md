@@ -167,3 +167,9 @@ Les graphiques à barres sont la norme pour la recherche d’une valeur spécifi
 Les graphiques en anneau sont similaires aux graphiques à secteurs. Ils affichent la relation de parties par rapport à un tout.
 
 ![anneau](images/donut-chart-visual.png)
+
+### Graphiques en jauge
+
+Ils affichent l’état actuel dans le contexte d’un objectif.
+
+![jauge](images/radial-gauge-chart.png)
