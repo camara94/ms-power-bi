@@ -337,3 +337,15 @@ Heureusement, l’Éditeur Power Query contient des outils pour vous aider à tr
 La fonctionnalité Transposer de l’Éditeur Power Query vous permet de permuter des lignes en colonnes pour améliorer la mise en forme des données.
 
 ![transpose-data](images/transpose-data.png)
+
+## Mettre en forme les données
+
+Vous devrez peut-être mettre en forme les données afin que Power BI puisse les classer et les identifier correctement. Avec certaines transformations, vous nettoierez les données dans un jeu de données utilisable dans Power BI. Parmi les transformations puissantes disponibles, citons la promotion de lignes en en-têtes, l’utilisation de **Remplir** pour remplacer les valeurs Null, et la fonctionnalité **Supprimer les colonnes du tableau croisé dynamique**.
+
+Avec Power BI, vous pouvez faire des essais avec les transformations et déterminer celle avec laquelle vos données seront transformées dans le format de colonne le plus utilisable. N’oubliez pas que la section **Étapes appliquées** de l’Éditeur Power Query enregistre toutes vos actions. Si une transformation ne donne pas les résultats souhaités, sélectionnez le symbole **X** en regard de l’étape, puis annulez-la.
+
+![remove-steps-from-applied-steps](images/remove-steps-from-applied-steps.png)
+
+Une fois que vous avez nettoyé vos données dans un format utilisable, vous pouvez commencer à créer des visuels puissants dans Power BI.
+
+Pour plus d’informations, consultez Tutoriel : [Combiner des données de ventes à partir d’Excel et d’un flux OData](https://docs.microsoft.com/fr-fr/power-bi/connect-data/desktop-tutorial-analyzing-sales-data-from-excel-and-an-odata-feed).
