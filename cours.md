@@ -291,3 +291,26 @@ Après avoir chargé vos données dans l’Éditeur Power Query, vous verrez l�
 3. Dans le volet central, les données de la requête sélectionnée sont affichées et disponibles pour la mise en forme.
 
 4. sLa fenêtre Paramètres d’une requête liste les propriétés de la requête et les étapes appliquées.
+
+## Comment transformer des données
+
+Dans le volet central, cliquez avec le bouton droit sur une colonne pour afficher les transformations disponibles. Les transformations disponibles sont, par exemple, la suppression d’une colonne du tableau, la duplication de la colonne sous un nouveau nom ou le remplacement de valeurs. À partir de ce menu, vous pouvez également diviser des colonnes de texte à l’aide de délimiteurs communs.
+
+![change-type-menu](images/change-type-menu.png)
+
+<div style="background-color: #DFF6DD;">
+  ---
+**Conseil**
+
+Si vous faites une erreur, vous pouvez annuler n’importe quelle étape à partir de la liste **Étapes appliquées**.
+
+À mesure que vous appliquez des transformations, chaque étape s’affiche dans la liste **Étapes appliquées** dans le volet Paramètres d’une requête. Vous pouvez utiliser cette liste pour annuler ou examiner des modifications spécifiques, ou même pour changer le nom d’une étape. Pour enregistrer vos transformations, sélectionnez **Fermer et appliquer** sous l’onglet **Accueil**.
+
+  ---
+</div>
+
+![query-settings-pane](images/query-settings-pane.png)
+
+Une fois que vous avez sélectionné Fermer et appliquer, l’Éditeur Power Query applique les modifications apportées à la requête et les applique à Power BI Desktop.
+
+Pour plus d’informations, consultez Démarrage rapide : [Utilisation de Power Query dans Power BI Desktop](https://docs.microsoft.com/fr-fr/power-query/power-query-ui).
