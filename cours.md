@@ -162,3 +162,8 @@ Les graphiques à barres sont la norme pour la recherche d’une valeur spécifi
 
 ![carte-num-unique](images/single-number-card.png)
 
+### Graphiques en anneau
+
+Les graphiques en anneau sont similaires aux graphiques à secteurs. Ils affichent la relation de parties par rapport à un tout.
+
+![anneau](images/donut-chart-visual.png)
