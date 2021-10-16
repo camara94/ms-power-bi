@@ -1,3 +1,8 @@
+Auteur: CAMARA Laby Damaro
+Email: ldamaro98@gmail.com
+GitHub: https://github.com/camara94
+
+---
 # Power BI
 
 ## Introduction
@@ -71,6 +76,7 @@ Pourquoi créer des tableaux de bord ? En voici quelques raisons :
 * Pour surveiller la santé d’une entreprise, d’un produit, d’une unité organisationnelle, d’une campagne marketing, etc.
 * Pour créer une vue personnalisée d’un tableau de bord plus large et afficher les métriques qui les intéressent.
   
+
 Lorsque vous ouvrez un espace de travail, les tableaux de bord associés sont répertoriés sous l’onglet Tableaux de bord. Pour ouvrir un tableau de bord, sélectionnez-le. Lorsque vous ouvrez une application, vous voyez un tableau de bord. Si vous êtes propriétaire du tableau de bord, vous avez aussi accès en modification aux jeux de données et rapports sous-jacents. Si le tableau de bord a été partagé avec vous, vous pouvez interagir avec le tableau de bord et les rapports sous-jacents, mais vous ne pouvez pas enregistrer de modifications.
 
 ## Applications modèles
@@ -84,10 +90,12 @@ Les applications de modèle sont envoyées à l’espace partenaires pour deveni
 ## Installer une application modèle
 1. Dans le volet de navigation du service Power BI, sélectionnez **Applications** > **Obtenir des applications**.
    
+
 ![install app modele](images/get-apps-button.png)
 
 2. Dans la Place de marché des applications Power BI qui s’affiche, sélectionnez **Applications modèles**s. Toutes les applications modèles disponibles dans AppSource sont affichées. Recherchez l’application modèle que vous recherchez, ou obtenez une sélection filtrée à l’aide de la zone de recherche.
-    
+   
+
 ![app](images/search-appsource.png)
 
 3. Lorsque vous trouvez l’application modèle que vous recherchez, cliquez dessus. L’offre de l’application modèle s’affiche. Cliquez sur OBTENIR MAINTENANT.
@@ -306,7 +314,7 @@ Si vous faites une erreur, vous pouvez annuler n’importe quelle étape à part
 
 À mesure que vous appliquez des transformations, chaque étape s’affiche dans la liste **Étapes appliquées** dans le volet Paramètres d’une requête. Vous pouvez utiliser cette liste pour annuler ou examiner des modifications spécifiques, ou même pour changer le nom d’une étape. Pour enregistrer vos transformations, sélectionnez **Fermer et appliquer** sous l’onglet **Accueil**.
 
-  ---
+---
 </div>
 
 ![query-settings-pane](images/query-settings-pane.png)
@@ -403,7 +411,7 @@ Supposons que vous avez un graphique qui fait la somme des unités vendues pour 
    
     ![average-units-sold-chart](images/average-units-sold-chart.png)
 
-    ## Comment regrouper vos données
+## Comment regrouper vos données
 
 Voici certaines des options qui peuvent être disponibles pour l’agrégation d’un champ :
 
