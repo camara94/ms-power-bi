@@ -267,3 +267,9 @@ Les quatre types de filtres sont les suivants :
 * **Page** : s’applique à tous les objets visuels sur la page de rapport actuelle.
 * **Objet visuel** : s’applique à un seul objet visuel sur une page de rapport. Vous ne voyez les filtres de niveau élément visuel que si vous avez sélectionné un élément visuel sur le canevas de rapport.
 * **Extraction** : vous permet d’explorer successivement des affichages plus détaillés dand un objet visuel unique.
+
+## Transformer les données
+
+Parfois, vos données peuvent contenir des données superflues ou au format incorrect. Power BI Desktop comprend l’outil Éditeur Power Query, qui peut vous aider à mettre en forme et à transformer des données afin qu’elles soient prêtes pour vos modèles et visualisations.
+
+![power-query-editor](images/power-query-editor.png)
