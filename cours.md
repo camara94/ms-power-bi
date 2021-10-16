@@ -180,3 +180,8 @@ Affiche la progression vers un objectif mesurable.
 
 ![KPI](images/kpi-chart.png)
 
+### Graphiques en courbes
+
+Mettez en évidence la forme générale de l’ensemble d’une série de valeurs, normalement au fil du temps.
+
+![carte courbe](images/line-chart-visual.png)
