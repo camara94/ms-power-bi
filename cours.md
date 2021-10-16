@@ -173,3 +173,10 @@ Les graphiques en anneau sont similaires aux graphiques à secteurs. Ils affiche
 Ils affichent l’état actuel dans le contexte d’un objectif.
 
 ![jauge](images/radial-gauge-chart.png)
+
+### Indicateurs de performance clés
+
+Affiche la progression vers un objectif mesurable.
+
+![KPI](images/kpi-chart.png)
+
