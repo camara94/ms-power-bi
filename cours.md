@@ -381,3 +381,24 @@ Lorsque vous créez une visualisation dans Power BI, le service agrège les cham
 L’utilisation d’agrégats dans le service Power BI peut prêter à confusion. Vous avez peut-être un champ numérique dont Power BI ne vous permet pas de changer l’agrégation. Ou vous disposez peut-être d’un champ, comme une année, et vous ne souhaitez pas l’agréger, mais simplement compter le nombre d’occurrences.
 
 En général, le problème sous-jacent est lié à la définition du champ dans le jeu de données. Peut-être que le propriétaire du jeu de données a défini le champ en tant que texte, ce qui explique pourquoi Power BI ne peut pas en calculer la somme ou la moyenne. Malheureusement, [seul le propriétaire du jeu de données peut modifier la façon dont un champ est classé](https://docs.microsoft.com/fr-fr/power-bi/transform-model/desktop-data-categorization). Donc, si vous avez des autorisations de propriétaire sur le jeu de données, soit dans Desktop, soit dans le programme utilisé pour créer ce jeu de données (par exemple, Excel), vous pouvez résoudre ce problème. Dans le cas contraire, vous devez contacter le propriétaire du jeu de données pour lui demander de l’aide.
+
+## Modifier le mode d’agrégation d’un champ numérique
+
+Supposons que vous avez un graphique qui fait la somme des unités vendues pour différents produits. Or, il s’avère que vous préfèreriez obtenir la moyenne.
+
+1. Créez un **histogramme** groupé qui utilise une mesure et une catégorie. Dans cet exemple, utilisez Units Sold by Product (Unités vendues par produit). Par défaut, Power BI crée un graphique qui additionne les unités vendues (faites glisser la mesure dans le compartiment **Valeur**) pour chaque produit (faites glisser la catégorie dans le compartiment **Axe*).
+
+    ![sum-field](images/sum-field.png)
+
+2. Dans le volet **Visualisations**, cliquez avec le bouton droit sur la mesure, puis sélectionnez le type d’agrégation dont vous avez besoin. Dans ce cas, sélectionnez Moyenne.
+    ![aggregate-average](images/aggregate-average.png)
+
+    ---
+    **Notes**
+
+    Les options disponibles dans la liste déroulante varient en fonction 1) du champ sélectionné et 2) de la façon dont le propriétaire du jeu de données a classé ce champ.
+
+    ---
+3. Votre visualisation est à présent agrégée par moyenne.
+   
+    ![average-units-sold-chart](images/average-units-sold-chart.png)
