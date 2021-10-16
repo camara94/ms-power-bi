@@ -153,3 +153,7 @@ Les graphiques à barres sont la norme pour la recherche d’une valeur spécifi
 ![hist](images/bar-chart-visual.png)
 
 ![hist](images/column-chart-visual.png)
+
+### Cartes : Plusieurs lignes
+
+![carte-multi-ligne](images/multi-row-card.png)
