@@ -145,3 +145,11 @@ Voici quelques-uns des nombreux types de visualisations qui peuvent être ajout�
 Le graphique en aires de base est basé sur le graphique en courbes, avec la zone comprise entre l’axe et la ligne remplie.
 
 ![aire](images/area-chart-visual.png)
+
+### Graphiques à barres et histogrammes
+
+Les graphiques à barres sont la norme pour la recherche d’une valeur spécifique dans différentes catégories.
+
+![hist](images/bar-chart-visual.png)
+
+![hist](images/column-chart-visual.png)
