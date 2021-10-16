@@ -375,3 +375,9 @@ Prenons l’exemple ci-dessous :
 Lorsque vous créez une visualisation dans Power BI, le service agrège les champs numériques (la valeur par défaut étant somme) sur un champ catégoriel. Par exemple, « Unités vendues par produit », « Unités vendues par mois » et « Prix de fabrication par Segment ». Power BI fait référence aux champs numériques comme à des **mesures**. Il est facile d’identifier les mesures dans l’éditeur de rapport Power BI : la liste **Champs** indique les mesures avec le symbole **∑** situé en regard. Pour plus d’informations, consultez la [visite guidée de l’éditeur de rapport](https://docs.microsoft.com/fr-fr/power-bi/create-reports/service-the-report-editor-take-a-tour).
 
 ![power-bi-fields](images/power-bi-fields.png)
+
+## Pourquoi les agrégats ne fonctionnent pas comme je le souhaite ?
+
+L’utilisation d’agrégats dans le service Power BI peut prêter à confusion. Vous avez peut-être un champ numérique dont Power BI ne vous permet pas de changer l’agrégation. Ou vous disposez peut-être d’un champ, comme une année, et vous ne souhaitez pas l’agréger, mais simplement compter le nombre d’occurrences.
+
+En général, le problème sous-jacent est lié à la définition du champ dans le jeu de données. Peut-être que le propriétaire du jeu de données a défini le champ en tant que texte, ce qui explique pourquoi Power BI ne peut pas en calculer la somme ou la moyenne. Malheureusement, [seul le propriétaire du jeu de données peut modifier la façon dont un champ est classé](https://docs.microsoft.com/fr-fr/power-bi/transform-model/desktop-data-categorization). Donc, si vous avez des autorisations de propriétaire sur le jeu de données, soit dans Desktop, soit dans le programme utilisé pour créer ce jeu de données (par exemple, Excel), vous pouvez résoudre ce problème. Dans le cas contraire, vous devez contacter le propriétaire du jeu de données pour lui demander de l’aide.
