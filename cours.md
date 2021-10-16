@@ -197,3 +197,9 @@ Elles sont utilisées pour associer des informations quantitatives et relatives 
 Une table prend en charge deux dimensions, mais une matrice facilite l’affichage des données de manière claire entre plusieurs dimensions : elle prend en charge une disposition échelonnée. La matrice agrège automatiquement les données automatiquement et permet une exploration au niveau du détail.
 
 ![matrix](images/matrix.png)
+
+### Graphiques en secteurs
+
+Ils montrent la relation des parties par rapport à un tout.
+
+![pie chart](images/pie-chart.png)
