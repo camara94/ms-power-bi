@@ -191,3 +191,9 @@ Mettez en évidence la forme générale de l’ensemble d’une série de valeur
 Elles sont utilisées pour associer des informations quantitatives et relatives aux catégories à des emplacements spatiaux.
 
 ![carte simple](images/basic-map.png)
+
+### Matrix
+
+Une table prend en charge deux dimensions, mais une matrice facilite l’affichage des données de manière claire entre plusieurs dimensions : elle prend en charge une disposition échelonnée. La matrice agrège automatiquement les données automatiquement et permet une exploration au niveau du détail.
+
+![matrix](images/matrix.png)
