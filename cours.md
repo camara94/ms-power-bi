@@ -229,3 +229,24 @@ Les graphiques en cascade affichent un résultat cumulé lorsque des valeurs son
 ![waterfall-chart](images/waterfall-chart.png)
 
 Il s’agit de certains des visuels Power BI prêts à l’emploi disponibles dans le volet de visualisation de Power BI Desktop et du service Power BI. Toutefois, vous avez parfois besoin d’un visuel plus personnalisé et vous pouvez les trouver dans AppSource pour Power BI.
+
+## Filtrer des données avec Power BI
+
+Les données sont au cœur de Power BI. Lorsque vous explorez les rapports, chaque objet visuel présente ses données sous-jacentes provenant de sources qui contiennent généralement bien plus de données que ce dont vous avez besoin. Power BI offre plusieurs méthodes de filtrage et de mise en évidence des rapports. Savoir comment filtrer des données est la clé pour trouver les bonnes informations.
+
+---
+**Notes**
+
+Le filtrage ne s’applique qu’aux rapports et non aux tableaux de bord.
+
+---
+
+![image](images/filter-data.png)
+
+---
+**Notes**
+
+Lorsque vous filtrez un objet visuel, un graphique à barres par exemple, vous changez simplement l’affichage des données de cet objet visuel. Vous ne modifiez en aucun cas les données sources.
+
+---
+
