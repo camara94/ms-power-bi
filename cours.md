@@ -185,3 +185,9 @@ Affiche la progression vers un objectif mesurable.
 Mettez en évidence la forme générale de l’ensemble d’une série de valeurs, normalement au fil du temps.
 
 ![carte courbe](images/line-chart-visual.png)
+
+### Cartes : Cartes simples
+
+Elles sont utilisées pour associer des informations quantitatives et relatives aux catégories à des emplacements spatiaux.
+
+![carte simple](images/basic-map.png)
