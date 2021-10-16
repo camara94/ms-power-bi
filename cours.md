@@ -114,3 +114,24 @@ Pour pouvoir installer une application modèle qui n’est pas listée sur AppSo
 Une fois l’installation terminée, une notification vous indique que votre nouvelle application est prête.
 
 ![go to app](images/go-to-app.png)
+
+## Modélisation et visualisations des données
+Quand vous lancez Power BI Desktop, la boîte de dialogue Prise en main s’affiche. Elle fournit des liens utiles vers des forums, des blogs et des vidéos d’introduction.
+
+Dans Power BI Desktop, vous commencerez à créer des rapports dans la vue **Rapport**. Vous travaillerez dans cinq zones principales :
+
+![bi1](images/power-bi-layout.png)
+
+1. **Ruban** - Affiche les tâches courantes associées aux rapports et aux visualisations.
+   
+2. **Vue Rapport, ou canevas** - Sert à créer et à organiser les visualisations.
+   <ol type="a">
+    <li> La <b>Vue de données</b> vous permet d’afficher toutes les données disponibles dans votre rapport. Il s’agit d’un moyen simple de vérifier rapidement les types de données et de valider les données.</li>
+    <li>L’<b>Affichage de modèles</b> dans Power BI Desktop vous permet de définir visuellement la relation entre les tableaux ou les éléments. Une relation se produit lorsque deux tables ou plus sont liées, car elles contiennent des données associées. Cela permet aux utilisateurs d’exécuter des requêtes dans plusieurs tableaux pour des données liées.</li>
+    </ol>
+
+3.  **Onglet Pages** - Situé en bas de la page, cette zone vous permet de sélectionner ou d’ajouter une page de rapport.
+   
+4. **Volet Visualisations** - Vous permet de modifier les visualisations, de personnaliser les couleurs ou les axes, d’appliquer des filtres, de faire glisser des champs, et ainsi de suite.
+   
+5. **Volet Champs** - Vous permet de faire glisser des éléments de requête et des filtres vers la vue Rapport, ou vers la zone Filtres du volet Visualisations.
